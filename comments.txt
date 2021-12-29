@@ -1,0 +1,4 @@
+Mijn code is vrij basic, we starten op de homepagina met 2 afbeeldingen die elk doorverwijzen naar een pagina. Op de "Architecture" pagina doe ik dan hetzelfde om de keuze te maken tussen de 2 projecten. 
+Bij de projecten heb ik gebruikgemaakt van een basic bootstrap fotoslider. Ik wou geen andere extensies dan bootstrap gebruiken dus veel van mijn site is vrij basic.
+Ik wou nog een form maken voor de "About us" pagina, maar ben er niet in geslaagd dus heb ik het achterwege gelaten.
+Qua layout heb ik vooral met inline styling gewerkt.
